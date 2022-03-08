@@ -1,5 +1,5 @@
 # conflict-resolution
 
- ## This is a subheading created locally
+causing conflict
 
-  All of this content added to the readme file has been added from my local Git repository.
+accepted incoming changes and adding this comment
